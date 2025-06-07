@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		44B47E082DD3161D0018F605 /* CustomTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44B47E072DD3161D0018F605 /* CustomTabBarController.swift */; };
+		44B47E0A2DD316300018F605 /* CustomTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44B47E092DD316300018F605 /* CustomTabBar.swift */; };
 		848C8D432D5CAAD00009CA8E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848C8D422D5CAAD00009CA8E /* AppDelegate.swift */; };
 		848C8D452D5CAAD00009CA8E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848C8D442D5CAAD00009CA8E /* SceneDelegate.swift */; };
 		848C8D472D5CAAD00009CA8E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848C8D462D5CAAD00009CA8E /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		44B47E072DD3161D0018F605 /* CustomTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBarController.swift; sourceTree = "<group>"; };
+		44B47E092DD316300018F605 /* CustomTabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBar.swift; sourceTree = "<group>"; };
 		848C8D3F2D5CAAD00009CA8E /* CustomTabbar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomTabbar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		848C8D422D5CAAD00009CA8E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		848C8D442D5CAAD00009CA8E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,6 +60,8 @@
 		848C8D412D5CAAD00009CA8E /* CustomTabbar */ = {
 			isa = PBXGroup;
 			children = (
+				44B47E092DD316300018F605 /* CustomTabBar.swift */,
+				44B47E072DD3161D0018F605 /* CustomTabBarController.swift */,
 				848C8D422D5CAAD00009CA8E /* AppDelegate.swift */,
 				848C8D442D5CAAD00009CA8E /* SceneDelegate.swift */,
 				848C8D462D5CAAD00009CA8E /* ViewController.swift */,
@@ -138,6 +144,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				44B47E082DD3161D0018F605 /* CustomTabBarController.swift in Sources */,
+				44B47E0A2DD316300018F605 /* CustomTabBar.swift in Sources */,
 				848C8D472D5CAAD00009CA8E /* ViewController.swift in Sources */,
 				848C8D432D5CAAD00009CA8E /* AppDelegate.swift in Sources */,
 				848C8D452D5CAAD00009CA8E /* SceneDelegate.swift in Sources */,
@@ -292,6 +300,8 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LPRPC642LQ;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = CustomTabbar/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -304,7 +314,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.CustomTabbar;
+				PRODUCT_BUNDLE_IDENTIFIER = com.frimustechnologies.virtufy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -319,6 +329,8 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LPRPC642LQ;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = CustomTabbar/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -331,7 +343,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.CustomTabbar;
+				PRODUCT_BUNDLE_IDENTIFIER = com.frimustechnologies.virtufy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
