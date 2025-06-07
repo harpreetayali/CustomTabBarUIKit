@@ -15,5 +15,5 @@ The design highlights a **central floating action button**, perfect for emphasiz
 
 ## 📸 Screenshot
 
-![Custom Tab Bar Screenshot](Screenshots/"Simulator Screenshot - iPhone 16 Pro.png")
+![Custom Tab Bar Screenshot](Screenshots/"screenshot_tabbar.png")
 
