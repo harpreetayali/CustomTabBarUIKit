@@ -15,4 +15,4 @@ The design highlights a **central floating action button**, perfect for emphasiz
 
 ## 📸 Screenshot
 
-![Custom Tab Bar Screenshot](https://github.com/user-attachments/assets/d3945578-bce4-4e32-a696-224febd1f5b1)
+![Custom Tab Bar Screenshot](https://github.com/user-attachments/assets/42c7d361-1c35-4b51-a7c0-bf2a75b6c5a5)
